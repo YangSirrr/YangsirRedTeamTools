@@ -66,6 +66,7 @@ new10.exe > 1.txt
 
 ```
 new11.exe
+11.vbs
 ```
 
 ## 12Write The Registry
@@ -78,4 +79,5 @@ new11.exe
 
 ```
 13.exe
+Make sure your tar exe in the C:\Windows\Temp\Updating.exe
 ```
