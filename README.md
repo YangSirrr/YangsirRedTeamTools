@@ -65,8 +65,9 @@ new10.exe > 1.txt
 ## 11Add Admin User BypassAV
 
 ```
-new11.exe
-11.vbs
+new11.exe user pass
+11.vbs #direct to use
+Easy11.exe #direct to use
 ```
 
 ## 12Write The Registry
