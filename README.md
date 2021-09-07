@@ -59,7 +59,8 @@ new9-1.exe
 ## 10Fast Information Collection
 
 ```
-new10.exe > 1.txt
+new10_domain.exe > 1.txt
+new10_workgroup.exe > 2.txt
 ```
 
 ## 11Add Admin User BypassAV
@@ -67,7 +68,7 @@ new10.exe > 1.txt
 ```
 new11.exe user pass
 11.vbs #direct to use
-Easy11.exe #direct to use
+easy11_direct.exe #direct to use
 ```
 
 ## 12Write The Registry
@@ -82,3 +83,4 @@ Easy11.exe #direct to use
 13.exe
 Make sure your tar exe in the C:\Windows\Temp\Updating.exe
 ```
+
