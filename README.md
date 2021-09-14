@@ -61,6 +61,7 @@ new9-1.exe
 ## 10Fast Information Collection
 
 ```
+You can use in the workgroup OR domain computer
 new10_domain.exe > 1.txt
 new10_workgroup.exe > 2.txt
 ```
@@ -80,10 +81,27 @@ easy11.dll  #rundll32 easy11.dll admin  admininfo:DefaultAccount$/NoBase64==
 12.exe
 ```
 
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/12-1.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/12-2.png)
+
 ## 13Write The Start Dir
 
 ```
 13.exe
 Make sure your tar exe in the C:\Windows\Temp\Updating.exe
 ```
+
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/13.png)
+
+## 14Taskplan To Exec Your exe
+
+```
+14.exe c:\123\321.exe A
+Very to use，like to this
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/14-1.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/14-2.png)
 
