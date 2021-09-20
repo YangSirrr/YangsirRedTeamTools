@@ -94,7 +94,7 @@ Make sure your tar exe in the C:\Windows\Temp\Updating.exe
 
 ![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/13.png)
 
-## 14Taskplan To Exec Your exe
+## 14Taskplan To Exec Your EXE
 
 ```
 14.exe c:\123\321.exe A
@@ -106,3 +106,14 @@ Very to use，like to this
 ![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/14-2.png)
 
 ![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/14-3.png)
+
+## 15Taskplan To Backup Your WEBSHELL
+
+```
+15x32.exe C:\phpstudyWWW\shell.php A
+Very to use，like to this
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Add%20A%20Scheduled%20Task%20BypassAV%EF%BC%88WEBSHELL%EF%BC%89/image-20210920145033771.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Add%20A%20Scheduled%20Task%20BypassAV%EF%BC%88WEBSHELL%EF%BC%89/image-20210920145309610.png)
