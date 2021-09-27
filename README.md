@@ -120,6 +120,7 @@ Very to use，like to this
 ## 16Use The Registry To Bypassuac(BypassAV)
 ```
 Now this program have six plans to bypassuac in win10 maybe can use in win7(I don't have win7 machine to test)
+you can easy to use, such as 16x64.exe 1or2or3or4or5or6 cmd.exe
 16x64.exe 5 cmd.exe
 ```
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20The%20Registry%20To%20Bypassuac(BypassAV)/1.png)
