@@ -117,3 +117,10 @@ Very to use，like to this
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Add%20A%20Scheduled%20Task%20BypassAV%EF%BC%88WEBSHELL%EF%BC%89/image-20210920145033771.png)
 
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Add%20A%20Scheduled%20Task%20BypassAV%EF%BC%88WEBSHELL%EF%BC%89/image-20210920145309610.png)
+## 16Use The Registry To Bypassuac(BypassAV)
+```
+Now this program have six plans to bypassuac in win10 maybe can use in win7(I don't have win7 machine to test)
+16x64.exe 5 cmd.exe
+```
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20The%20Registry%20To%20Bypassuac(BypassAV)/1.png)
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20The%20Registry%20To%20Bypassuac(BypassAV)/2.png)
