@@ -4,6 +4,14 @@
 
 ###### Tools are not open source, use them and cherish them
 
+```
+Notes:
+Some tools introduce you can go to my blog, you can get more design details
+
+Blog address:
+https://yangsirrr.github.io/
+```
+
 ## 01Get Target User
 
 ```
