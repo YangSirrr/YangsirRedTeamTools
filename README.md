@@ -125,3 +125,18 @@ you can easy to use, such as 16x64.exe 1or2or3or4or5or6 cmd.exe
 ```
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20The%20Registry%20To%20Bypassuac(BypassAV)/1.png)
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20The%20Registry%20To%20Bypassuac(BypassAV)/2.png)
+
+## 17Use DLL Hijack To Bypassuac
+
+```
+After a simple test, two methods win10, Win11 can be successfully used
+make sure upload the exe&jpg to your target windows, you can easy to use:
+pic1_a.exe or pic2_a.exe
+
+when you success, don't forget to clean up the tracks:
+picall_clean.exe
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/image-20211009131805909.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/image-20211009143909641.png)
