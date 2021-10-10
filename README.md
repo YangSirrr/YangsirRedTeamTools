@@ -148,3 +148,9 @@ picall_clean.exe
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/image-20211009131805909.png)
 
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/image-20211009143909641.png)
+
+```
+bypass result
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/bypass.gif)
