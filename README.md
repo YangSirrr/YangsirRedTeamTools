@@ -154,3 +154,12 @@ bypass result
 ```
 
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Use%20DLL%20Hijack%20To%20BypassUAC/bypass.gif)
+
+## 18Fast Open Rdpport(BypassAV)
+
+```
+Easy to open the rdpport win10 can be success
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/18.gif)
+
