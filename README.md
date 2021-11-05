@@ -176,3 +176,13 @@ bypass360
 ```
 
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/PsexecLiker/psexec1.gif)
+
+## 20Windows Service Auto Start(BypassAV)
+
+```
+20.exe servicename filepath
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Windows%20Service%20Auto%20Start(BypassAV)/image-20211105211254595.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Windows%20Service%20Auto%20Start(BypassAV)/image-20211105210252245.png)
