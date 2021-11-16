@@ -186,3 +186,22 @@ bypass360
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Windows%20Service%20Auto%20Start(BypassAV)/image-20211105211254595.png)
 
 ![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/Windows%20Service%20Auto%20Start(BypassAV)/image-20211105210252245.png)
+
+## 21LdapQuery
+
+```
+Usage: 21x32.exe target username password  basedn filterwayORyourfilter
+Eg:    21x32.exe 192.168.3.144 sqladmin Admin12345   DC=rootkit,DC=org  B
+Eg:    21x32.exe 192.168.3.144 sqladmin Admin12345   DC=rootkit,DC=org  (objectClass=person)
+A:search user
+B:search computer
+C:search unconstrained delegation computer
+D:search delegation computer
+
+More introduce you can go to:
+https://yangsirrr.github.io/2021/11/16/shi-xian-ldap-xin-xi-shou-ji/
+```
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/LDAPquery/image-20211116174538717.png)
+
+![](https://raw.githubusercontent.com/YangSirrr/Yangsir-blog-img/master/LDAPquery/image-20211116174456877.png)
